@@ -15,7 +15,7 @@
 - 🔭 I'm currently working on exciting web projects
 - 🌱 I'm currently learning advanced React patterns and Next.js
 - 💬 Ask me about web development, JavaScript, and React
-- 📫 How to reach me: ryan.elico@example.com
+- 📫 How to reach me: ryanelicowork@gmail.com
 
 <br/>
 
@@ -30,8 +30,8 @@
 
 <div align="center">
   <h3>🚀 My GitHub Stats</h3>
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ryanlico&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="Ryan's GitHub stats" />
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ryanlico&count_private=true&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Ryan-ark&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="Ryan's GitHub stats" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Ryan-ark&count_private=true&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
