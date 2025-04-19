@@ -1,6 +1,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center">Hi there, I'm Ryan Elico 👋</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Ryan+Elico+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile;Software+Engineer+%7C+Web+Developer;Mobile+App+%7C+WordPress+Developer" alt="Typing SVG" /></a>
+</p>
 
 <h3 align="center">A Software Engineer</h3>
 
@@ -18,6 +20,7 @@
     <a href="https://github.com/Ryan-ark">
       <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github" alt="GitHub">
     </a>
+    <img src="https://komarev.com/ghpvc/?username=Ryan-ark&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
   </p>
 </div>
 
@@ -34,6 +37,14 @@
 - 🌐 Portfolio: <a href="https://nasaro-dev.vercel.app" target="_blank">nasaro-dev.vercel.app</a>
 
 <br/>
+
+<details>
+  <summary>🏆 GitHub Trophies</summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ryan-ark&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  </p>
+</details>
 
 ## 🛠️ Skills & Technologies
 
@@ -76,68 +87,35 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📂 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Personal Portfolio</h3>
-      <p align="center">
-        <a href="https://nasaro-dev.vercel.app" target="_blank">
-          <img src="https://via.placeholder.com/300x200?text=Project+Preview" width="100%" alt="Portfolio Preview"/>
-        </a>
-      </p>
-      <p>
-        <strong>Next.js, React, TailwindCSS</strong> - Professional portfolio website showcasing my projects and skills.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project 2</h3>
-      <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://via.placeholder.com/300x200?text=Project+2+Preview" width="100%" alt="Project 2 Preview"/>
-        </a>
-      </p>
-      <p>
-        <strong>Technologies Used</strong> - Brief description of this project.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Project 3</h3>
-      <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://via.placeholder.com/300x200?text=Project+3+Preview" width="100%" alt="Project 3 Preview"/>
-        </a>
-      </p>
-      <p>
-        <strong>Technologies Used</strong> - Brief description of this project.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project 4</h3>
-      <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://via.placeholder.com/300x200?text=Project+4+Preview" width="100%" alt="Project 4 Preview"/>
-        </a>
-      </p>
-      <p>
-        <strong>Technologies Used</strong> - Brief description of this project.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 📊 GitHub Stats
 
+<details open>
+  <summary>💻 GitHub Profile Stats</summary>
+  <div align="center">
+    <h3>🚀 My GitHub Stats</h3>
+    <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Ryan-ark&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&border_radius=10" alt="Ryan's GitHub stats" />
+    <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Ryan-ark&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+    <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ryan-ark&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+  </div>
+</details>
+
+<details>
+  <summary>📈 Activity Graph</summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/Ryan-ark">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryan-ark&theme=react-dark&hide_border=true" alt="Activity Graph" />
+    </a>
+  </p>
+</details>
+
+<!-- Snake animation -->
 <div align="center">
-  <h3>🚀 My GitHub Stats</h3>
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Ryan-ark&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="Ryan's GitHub stats" />
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Ryan-ark&count_private=true&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Ryan-ark&layout=compact&theme=dark&hide_border=true&border_radius=10" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryan-ark/Ryan-ark/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryan-ark/Ryan-ark/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ryan-ark/Ryan-ark/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -161,5 +139,10 @@
   </a>
   -->
 </p>
+
+<!-- Visitor map -->
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ryan-ark.Ryan-ark" alt="visitors">
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
