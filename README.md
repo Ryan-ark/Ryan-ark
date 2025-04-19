@@ -109,13 +109,9 @@
   </p>
 </details>
 
-<!-- Snake animation -->
+<!-- Replace snake animation with GitHub metrics -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryan-ark/Ryan-ark/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryan-ark/Ryan-ark/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ryan-ark/Ryan-ark/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryan-ark&repo=Ryan-ark&theme=tokyonight" alt="Profile Repository">
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -140,9 +136,9 @@
   -->
 </p>
 
-<!-- Visitor map -->
+<!-- Replace visitor map with a more reliable counter -->
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ryan-ark.Ryan-ark" alt="visitors">
+  <img src="https://komarev.com/ghpvc/?username=Ryan-ark&label=Visitors&color=0e75b6&style=for-the-badge" alt="visitors counter">
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
