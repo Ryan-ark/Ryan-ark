@@ -99,16 +99,6 @@
   </div>
 </details>
 
-<details>
-  <summary>📈 Activity Graph</summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/Ryan-ark">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryan-ark&theme=react-dark&hide_border=true" alt="Activity Graph" />
-    </a>
-  </p>
-</details>
-
 <!-- Replace snake animation with GitHub metrics -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryan-ark&repo=Ryan-ark&theme=tokyonight" alt="Profile Repository">
@@ -125,11 +115,11 @@
   <a href="https://nasaro-dev.vercel.app">
     <img src="https://img.shields.io/badge/Website-nasaro--dev.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <!-- Add social media links when available -->
-  <!--
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/ryanelico">
+    <img src="https://img.shields.io/badge/LinkedIn-ryanelico-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <!-- Add more social media links when available -->
+  <!--
   <a href="https://twitter.com/your-handle">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
